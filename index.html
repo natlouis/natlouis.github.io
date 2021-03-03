@@ -58,6 +58,9 @@
 				</ul>
 
 				<h2>Projects</h2>
+				<h3 target="_blank">Explorative 3D Reconstruction</h3>
+				<p>As part of a project in a special topics course. In this work, we explore the problem of multi-view 3D mesh reconstruction with a limited set of viewpoints. Analogous to an intelligent agent, we learn to select the next best view by predicting the regions of high uncertainty using low-cost silhouette reconstruction from a set of canonical viewpoints. <a href="docs/EECS598_007_final_report.pdf">[PDF]</a> <a href="https://github.com/natlouis/MultiViewMeshReconstruction">[Code]</a></p>
+				<img height="10" src="images/explorative_3d_overview.png">
 				<h3>ViP: Video Platform for PyTorch</h3>
 				<p> For this work, we developed a deep learning-based framework we call the Video Platform for PyTorch (ViP). We design it as a way to prototype and benchmark computer vision models in the video domain.
 				ViP is built with flexibility and modularity in mind allowing for a single unified interface applicable to all video problem domains, easily reproducible experimental setups, and rapid prototyping of video models. 
@@ -65,11 +68,10 @@
 				<img src="images/workshop_figure.png">
 
 				<h3>Learning Motion Models for Robust Visual Object Tracking</h3>
-				<p> This is from my qualification exams project regarding visual object tracking in computer vision. Here I investigated using state estimation theory in combination with a deep learning framework to produce robust tracking coordinate positions. I used a Siamese CNN to encode my observations followed by recent works with LSTM-KF, using recurrent neural networks to produce a motion model and covariance estimates for Kalman Filter updates. Results are reported on the ImageNet Video Object Detection dataset and compared to additional baselines. <a href="docs/quals_report.pdf">[PDF]</a></p>
+				<p> This is from my qualification exams project regarding visual object tracking in computer vision. I investigated using state estimation theory in combination with a deep learning framework to produce robust tracking coordinate positions. I used a Siamese CNN to encode my observations followed by a recurrent neural network that can approximate a motion model and covariance estimates for Kalman filter updates.<a href="docs/quals_report.pdf">[PDF]</a></p>
 				<img src="images/quals_figure.png">
 				<h3>Weakly-Supervised Video Object Grounding from Text by Loss Weighting and Object Interaction</h3>
-				<p> Here we studied weakly-supervised video object grounding: given a video segment and a corresponding descriptive sentence, the goal is to localize objects that are mentioned from the sentence in the video. During training, no object bounding boxes are available, but the set of possible objects to be grounded is known beforehand. 
-				Existing approaches in the image domain that use Multiple Instance Learning (MIL) to ground objects by enforcing matches between visual and semantic features. We introduce a weak supervisory signal from the segment level to frames that likely contain the target object and an alternative penalty loss for frames that are unlikely to contain the target objects. We also leverage the interactions among objects as a textual guide for the grounding. Our model is evaluated on the newly- collected benchmark <a target="_blank" href="http://youcook2.eecs.umich.edu">YouCook2-BoundingBox</a> and show improvements over competitive baselines. <a target="_blank" href="https://arxiv.org/pdf/1805.02834.pdf">[PDF]</a> <a target="_blank" href="https://github.com/MichiganCOG/Video-Grounding-from-Text">[Code]</a></p>
+				<p>We studied weakly-supervised video object grounding: given a video segment and a corresponding descriptive sentence, the goal is to localize objects that are mentioned from the sentence in the video. Our model is evaluated on the newly- collected benchmark <a target="_blank" href="http://youcook2.eecs.umich.edu">YouCook2-BoundingBox</a> and show improvements over competitive baselines. <a target="_blank" href="https://arxiv.org/pdf/1805.02834.pdf">[PDF]</a> <a target="_blank" href="https://github.com/MichiganCOG/Video-Grounding-from-Text">[Code]</a></p>
 				<img src="images/bmvc_figure.png">
 
       </section>
