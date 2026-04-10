@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-23'
+  last_updated: '2026-04-10'
 papers:
   F1fgFYMAAAAJ:2osOgNQ5qMEC:
-    citations: 11
+    citations: 12
     title: Learning to estimate external forces of human motion in video
     year: '2022'
   F1fgFYMAAAAJ:9yKSN-GCB0IC:
@@ -42,6 +42,6 @@ papers:
     title: 'Vip: video platform for pytorch'
     year: '2019'
   F1fgFYMAAAAJ:zYLM7Y9cAGgC:
-    citations: 9
+    citations: 11
     title: 'Super-resolution of clinical CT: Revealing microarchitecture in whole bone clinical CT image data'
     year: '2024'
