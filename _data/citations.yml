@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-05-06'
 papers:
   F1fgFYMAAAAJ:2osOgNQ5qMEC:
     citations: 12
@@ -24,9 +24,9 @@ papers:
   F1fgFYMAAAAJ:Y0pCki6q_DkC:
     citations: 1
     title: Measuring Physical Plausibility of 3D Human Poses Using Physics Simulation
-    year: '2025'
+    year: '2024'
   F1fgFYMAAAAJ:d1gkVwhDpl0C:
-    citations: 9
+    citations: 10
     title: 'Novel assessments of technical and nontechnical cardiac surgery quality: protocol for a mixed methods study'
     year: '2021'
   F1fgFYMAAAAJ:qjMakFHDy7sC:
@@ -42,6 +42,6 @@ papers:
     title: 'Vip: video platform for pytorch'
     year: '2019'
   F1fgFYMAAAAJ:zYLM7Y9cAGgC:
-    citations: 11
+    citations: 12
     title: 'Super-resolution of clinical CT: Revealing microarchitecture in whole bone clinical CT image data'
     year: '2024'
