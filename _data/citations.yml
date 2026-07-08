@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-07-08'
 papers:
   F1fgFYMAAAAJ:2osOgNQ5qMEC:
-    citations: 12
+    citations: 13
     title: Learning to estimate external forces of human motion in video
     year: '2022'
   F1fgFYMAAAAJ:9yKSN-GCB0IC:
-    citations: 118
+    citations: 120
     title: Weakly-supervised video object grounding from text by loss weighting and object interaction
     year: '2018'
   F1fgFYMAAAAJ:IjCSPb-OGe4C:
@@ -22,15 +22,15 @@ papers:
     title: Super-resolution of clinical computed tomography to improve fracture risk prediction
     year: '2022'
   F1fgFYMAAAAJ:Y0pCki6q_DkC:
-    citations: 1
+    citations: 2
     title: Measuring Physical Plausibility of 3D Human Poses Using Physics Simulation
-    year: '2024'
+    year: '2025'
   F1fgFYMAAAAJ:d1gkVwhDpl0C:
     citations: 10
     title: 'Novel assessments of technical and nontechnical cardiac surgery quality: protocol for a mixed methods study'
     year: '2021'
   F1fgFYMAAAAJ:qjMakFHDy7sC:
-    citations: 25
+    citations: 26
     title: The impact of team familiarity on intra and postoperative cardiac surgical outcomes
     year: '2021'
   F1fgFYMAAAAJ:u-x6o8ySG0sC:
@@ -42,6 +42,6 @@ papers:
     title: 'Vip: video platform for pytorch'
     year: '2019'
   F1fgFYMAAAAJ:zYLM7Y9cAGgC:
-    citations: 12
+    citations: 13
     title: 'Super-resolution of clinical CT: Revealing microarchitecture in whole bone clinical CT image data'
     year: '2024'
