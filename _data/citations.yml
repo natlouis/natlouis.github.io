@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-24'
 papers:
   F1fgFYMAAAAJ:2osOgNQ5qMEC:
-    citations: 13
+    citations: 14
     title: Learning to estimate external forces of human motion in video
     year: '2022'
   F1fgFYMAAAAJ:9yKSN-GCB0IC:
-    citations: 120
+    citations: 125
     title: Weakly-supervised video object grounding from text by loss weighting and object interaction
     year: '2018'
   F1fgFYMAAAAJ:IjCSPb-OGe4C:
@@ -14,7 +14,7 @@ papers:
     title: Bone fracture risk prediction using low-resolution clinical computed tomography (ct) scans
     year: '2023'
   F1fgFYMAAAAJ:Tyk-4Ss8FVUC:
-    citations: 2
+    citations: 1
     title: Improving articulated pose tracking and contact force estimation for qualitative assessment of human actions
     year: '2024'
   F1fgFYMAAAAJ:UeHWp8X0CEIC:
@@ -24,7 +24,7 @@ papers:
   F1fgFYMAAAAJ:Y0pCki6q_DkC:
     citations: 2
     title: Measuring Physical Plausibility of 3D Human Poses Using Physics Simulation
-    year: '2025'
+    year: '2024'
   F1fgFYMAAAAJ:d1gkVwhDpl0C:
     citations: 10
     title: 'Novel assessments of technical and nontechnical cardiac surgery quality: protocol for a mixed methods study'
@@ -34,7 +34,7 @@ papers:
     title: The impact of team familiarity on intra and postoperative cardiac surgical outcomes
     year: '2021'
   F1fgFYMAAAAJ:u-x6o8ySG0sC:
-    citations: 16
+    citations: 18
     title: Temporally guided articulated hand pose tracking in surgical videos
     year: '2023'
   F1fgFYMAAAAJ:u5HHmVD_uO8C:
@@ -42,6 +42,6 @@ papers:
     title: 'Vip: video platform for pytorch'
     year: '2019'
   F1fgFYMAAAAJ:zYLM7Y9cAGgC:
-    citations: 13
+    citations: 14
     title: 'Super-resolution of clinical CT: Revealing microarchitecture in whole bone clinical CT image data'
     year: '2024'
